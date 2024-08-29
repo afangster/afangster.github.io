@@ -15,4 +15,4 @@ social: true # includes social icons at the bottom of the page
 
 Hi, I'm Alex! I am a student at Carnegie Mellon University (CMU) in the Masters of Intelligent Information System (MIIS) program in the [Language Technologies Institute](https://www.lti.cs.cmu.edu/) where I will be studying machine learning and natural language processing to process and analyze unstructured and semi-structured information. I am an alumnus of UCLA, where I completed my bachelors in computer science. Currently, I am interested in the field of NLP and GenAI to develop innovative technologies to improve human life.
 
-Aside from work, I like to cook, work out, and read (which got me interested in MTL and then NLP!)!
+Aside from work, I like to cook, work out, and read fantasy, wuxia, and science fiction novels/webnovels/light novels (which got me interested in MTL and then NLP!)!
