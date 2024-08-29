@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://afangster.github.io/sitemap.xml
+Sitemap: afangster.github.io/sitemap.xml
