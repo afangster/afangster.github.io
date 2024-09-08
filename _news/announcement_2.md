@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have joined Professor Graham Neubig's lab to research LLM interpretability under [Lindia Tjuatja](https://lindiatjuatja.github.io/)! 
+I have joined [Professor Graham Neubig's lab](https://www.cs.cmu.edu/~neulab/people.html) to research LLM interpretability under [Lindia Tjuatja](https://lindiatjuatja.github.io/)! 
